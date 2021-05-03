@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hola, I'm Amrutha! 
+I am doing my bachelors in electronics domain. I am a book nerd and a  tech enthusiast . My main interest lies in ML and its applications. I am currently learning AI. I am a keen learner and loves to pay attention towards small things happening around in my life.  I am an urban gardener .Trying to figure out where my actual interest lies in .  
 
-<!--
-**amruthavarma99/amruthavarma99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on improving my Technical Skills.
+- 🌱 I’m currently learning ML,AI,DL and python
+- 👯 I’m looking to collaborate on ML related projects
+- 🤔 I’m looking for good project/internship related to ML and AI
+- 💬 Ask me about flutter or any tech related stuff
+- 📫 How to reach me: GMAIL:- geethamrutha369@gmail.com.
+- 😄 Pronouns: ... she/her
+- ⚡ Fun fact: ... I still prefer to read books in this era of e-learning :) .
+-
